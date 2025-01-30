@@ -1,4 +1,4 @@
-//Create and save budget categories and transactions
+//Create and save budget categories and transactions.
 //When the method is called, it adds them to the database
 @Service
 public class BudgetService {
